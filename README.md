@@ -13,3 +13,10 @@ AI-LR2-Gruzdov источник data spam.csv
 <li>Наивный байесовский классификатор.</li>
 <li>Метод опорных векторов.</li>
 </ul>
+<h2 style="text-align: center;line-height: 20%;">Лабораторная работа №3</h2>
+AI-LR3-Gruzdov источник data income.csv
+<ul>
+<li>Решающее дерево.</li>
+<li>Композиции решающих деревьев.</li>
+<li>Многослойный перцептрон.</li>
+</ul>
